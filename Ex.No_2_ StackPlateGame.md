@@ -1,5 +1,5 @@
 # Ex.No: 2 Implementation of Stack Plate game using Queue 
-### DATE: 9.8.24               
+### DATE:           
 ### Name: ADHITHYARAM D
 ### REGISTER NUMBER : 212222230008
 ### AIM: 
