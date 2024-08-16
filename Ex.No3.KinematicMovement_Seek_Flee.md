@@ -106,7 +106,7 @@ if __name__ == "__main__":
     main()
 ```
 ### Output:
-<img src= "https://github.com/user-attachments/assets/e6e7a748-c69f-4e0e-a4c1-234978604c99" width="300" height="300">
+<img src= "https://github.com/user-attachments/assets/e6e7a748-c69f-4e0e-a4c1-234978604c99" width="400" height="400">
 
 ### Result:
 Thus the simple seek and flee behavior was implemented successfully.
