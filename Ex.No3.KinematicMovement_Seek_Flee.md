@@ -109,7 +109,7 @@ while True:
     clock.tick(FPS)
 ```
 ### Output:
-![image](https://github.com/user-attachments/assets/24c8d266-4701-4f37-a65a-f9b54b26d2e4)
+<img src= "https://github.com/user-attachments/assets/24c8d266-4701-4f37-a65a-f9b54b26d2e4", width="300" height="300">
 
 ### Result:
 Thus the simple seek and flee behavior was implemented successfully.
