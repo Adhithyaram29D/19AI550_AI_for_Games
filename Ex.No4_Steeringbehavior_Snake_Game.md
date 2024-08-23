@@ -111,4 +111,4 @@ while True:
 <img src= "https://github.com/user-attachments/assets/24c8d266-4701-4f37-a65a-f9b54b26d2e4" width="400" height="400">
 
 ### Result:
-Thus the simple HotPotato game was implemented using Queue.
+Thus the simple snake game was implemented.
