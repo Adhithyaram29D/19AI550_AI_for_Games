@@ -58,7 +58,8 @@ if __name__ == "__main__":
     print("Optimal value:", alpha_beta_pruning(0, 0, True, values, -INF, INF))
 ```
 ### Output:
-![Output](https://github.com/naramala-niharika/19AI550_AI_for_Games/blob/main/Screenshot%202024-10-14%20232653.png?raw=true)
+<img width="1128" alt="377505777-24ec26e2-cbce-4aeb-b866-0918b98e1d39" src="https://github.com/user-attachments/assets/0a7976c5-c8c1-47e2-be9a-f53331355daa">
+
 
 ### Result:
 Thus the simple Zombie survival game was implemented using python.
